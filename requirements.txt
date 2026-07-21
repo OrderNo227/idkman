@@ -1,7 +1,5 @@
 joblib
-kagglehub
-os
 pandas
-sklearn
+scikit-learn
 matplotlib
 seaborn
